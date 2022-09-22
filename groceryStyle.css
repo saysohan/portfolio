@@ -1,0 +1,37 @@
+.col-header {
+    background-color: peachpuff;
+}
+ul {
+    list-style-type: none;
+}
+
+.groceryInput {
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    width: 30vw;
+    padding: 10px;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.check {
+    text-decoration: line-through;
+}
+
+.groceryList {
+    min-width: 400px;
+}
+
+.item {
+    padding: 10px;
+    font-size: 1.2em;
+}
+
+.checkbox {
+    margin: 2px 10px;
+}
+
+.delete-button {
+    margin: 0 10px;
+}

@@ -1,0 +1,192 @@
+/* navbar */
+#navbar-top li a {
+	font-size: 1.2em;
+	font-family: 'Geneva', sans-serif;
+}
+
+.ms-6 {
+    margin-left: 5.5rem !important;
+}
+
+#navbartop .nav-item:hover {
+    color: white;
+    background-color: rgb(154, 154, 154);
+}
+
+#navbartop .active {
+    background-color: rgb(154, 154, 154);
+}
+
+/* carousel */
+#carousel1 {
+    position: absolute;
+    left: 50%;
+    transform: translateY(-40%);
+    font-family: 'Playfair Display', serif;
+    text-align: right;
+}
+
+#carousel1 h1 {
+    font-size: 4.5em;
+}
+
+#carousel1 h3 {
+    margin: 2em 0;
+    font-size:2em;
+    font-family: 'Satisfy', cursive;
+}
+
+#carousel2 {
+    position: absolute;
+    right: 50%;
+    transform: translateY(-40%);
+    font-family: 'Playfair Display', serif;
+    text-align: left;
+}
+
+#carousel2 h1 {
+    font-size: 4.5em;
+}
+
+#carousel2 h3 {
+    margin: 2em 0;
+    font-size:2em;
+    font-family: 'Satisfy', cursive;
+}
+
+#carousel3 {
+    position: absolute;
+    right: 50%;
+    transform: translateY(-20%);
+    font-family: 'Playfair Display', serif;
+    text-align: left;
+}
+
+#carousel3 h1 {
+    font-size: 4.5em;
+}
+
+#carousel3 h3 {
+    margin: 2em 0;
+    font-size:2em;
+    font-family: 'Satisfy', cursive;
+}
+
+#carousel4 {
+    position: absolute;
+    left: 50%;
+    transform: translateY(-10%);
+    font-family: 'Playfair Display', serif;
+    text-align: right;
+}
+
+#carousel4 h1 {
+    font-size: 3em;
+    width: 120%;
+}
+
+#carousel4 h3 {
+    margin: 1em 0;
+    font-size:1.8em;
+    width: 120%;
+    font-family: 'Satisfy', cursive;
+}
+
+#carousel5 {
+    position: absolute;
+    right: 50%;
+    transform: translateY(-10%);
+    font-family: 'Playfair Display', serif;
+    text-align: left;
+    color: rgb(84, 84, 84);
+}
+
+#carousel5 h1 {
+    font-size: 4.5em;
+}
+
+#carousel5 h3 {
+    margin: 2em 0;
+    font-size:2em;
+    font-family: 'Satisfy', cursive;
+}
+
+#carousel6 {
+    position: absolute;
+    left: 50%;
+    transform: translateY(-10%);
+    font-family: 'Playfair Display', serif;
+    text-align: right;
+}
+
+#carousel6 h1 {
+    font-size: 4.5em;
+}
+
+#carousel6 h3 {
+    margin: 2em 0;
+    font-size:2em;
+    font-family: 'Satisfy', cursive;
+}
+
+.icon {
+    justify-content: center;
+    background-color: peachpuff;
+}
+
+.card {
+    margin: 0 0.2em;
+}
+
+.icon svg {
+    margin: 15px;
+}
+
+.icon:hover {
+    background-color: rgb(162, 162, 162);
+    cursor: pointer;
+}
+
+.gx-6 {
+    padding: flex-gutter();
+}
+
+.card-text {
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+
+.card-text-right {
+    text-align: right;
+}
+
+h4.card-text {
+    text-align: left;
+}
+
+.card-body {
+    background-color: rgb(100, 100, 100);
+    color: white;
+}
+
+.small {
+    color: peachpuff;
+}
+
+.first-row {
+    background-color: peachpuff;
+}
+
+/* navbar bottom */
+#navbarbottom {
+    color: rgb(252, 255, 231);
+}
+
+#navbarbottom li a {
+    font-size: 1em;
+    color: rgb(252, 255, 231);
+}
+
+.ms-7 {
+    margin-left: 9.5rem !important;
+}
